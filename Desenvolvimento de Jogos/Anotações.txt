@@ -1,0 +1,31 @@
+1. **Fundamentos de Programação**:
+   - Comece com os conceitos básicos de programação. Aprenda linguagens, que são amplamente usadas no desenvolvimento de jogos.
+   - Estude lógica de programação, estruturas de dados e algoritmos.
+
+2. **Design de Jogos**:
+   - Compreenda os princípios do design de jogos. Isso inclui mecânicas de jogo, narrativa, níveis e interfaces.
+   - Explore ferramentas como **Unity** ou **Unreal Engine** para criar protótipos e entender o fluxo de trabalho.
+
+3. **Gráficos e Arte**:
+   - Familiarize-se com **modelagem 3D**, **texturização** e **animação**.
+   - Aprenda a usar software para criar ativos visuais.
+
+4. **Programação de Jogos**:
+   - Aprofunde-se na programação específica para jogos. Isso inclui **física**, **IA**, **mecânica de jogo** e **otimização**.
+   - Desenvolva pequenos projetos para aplicar seus conhecimentos.
+
+5. **Áudio e Música**:
+   - Estude sobre **efeitos sonoros** e **trilhas sonoras** para jogos.
+   - Experimente ferramentas para criar áudio.
+
+6. **Publicação e Distribuição**:
+   - Aprenda sobre **distribuição de jogos**, **lojas de aplicativos** e **monetização**.
+   - Explore plataformas como **Steam**, **Google Play** ou **App Store**.
+
+7. **Projetos Práticos**:
+   - Crie seus próprios jogos. Comece com projetos simples e, gradualmente, aumente a complexidade.
+   - Participe de **game jams** para desenvolver jogos em prazos curtos.
+
+8. **Comunidade e Networking**:
+   - Conecte-se com outros desenvolvedores de jogos. Participe de fóruns, conferências e eventos.
+   - Colabore em projetos com outras pessoas para ganhar experiência prática.
